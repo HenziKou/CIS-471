@@ -1,3 +1,4 @@
-# Part 1: Search
+# Part 2: Multi-Agent Search
 
-Using various search algorithms such as BFS, DFS, UCS, Greedy Search, and A* Search.
+Implement multiagent minimax and expectimax algorithms, as well as designing evaluation
+functions.
